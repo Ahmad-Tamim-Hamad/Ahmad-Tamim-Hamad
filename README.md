@@ -1,8 +1,9 @@
+
+
 <h1 align="center">Hi 👋, I'm Ahmad Tamim</h1>
 <h3 align="center">Software | AI/ML Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1Bwi9vpLq_4elu9t_KfN-bvwYme_q67PY/view?usp=sharing/background.png">
-
+<img align="center" width="1000" alt="background" src="https://github.com/user-attachments/assets/d0872056-38d2-416f-aab5-86d54319acc6">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamim1992&label=Profile%20views&color=0e75b6&style=flat" alt="tamim1992" /> </p>
@@ -11,13 +12,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Coulter](https://medicine.missouri.edu/offices-programs/coulter-biomedical-accelerator-program/funded-projects/2021)
+- 🔭 I’m currently working on [MU Coulter Funding Program](https://medicine.missouri.edu/offices-programs/coulter-biomedical-accelerator-program/funded-projects/2021)
 
-- 👯 I’m having collaboration on **17TH CENTURY SPANISH AMERICAN NOTARY RECORDS**
+- 👨‍💻 All of my projects are available at [https://tamim1992.github.io/](https://tamim1992.github.io/)
 
 - 📫 How to reach me **ahzkc@umsystem.edu | atamim.hamad@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cPFWEA7DuIfH-iOtMLZm1rp2nBlpDFj7/view?usp=sharing](https://drive.google.com/file/d/1cPFWEA7DuIfH-iOtMLZm1rp2nBlpDFj7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
