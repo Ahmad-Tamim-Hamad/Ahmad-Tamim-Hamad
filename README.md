@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [MU Coulter Funding Program](https://medicine.missouri.edu/offices-programs/coulter-biomedical-accelerator-program/funded-projects/2021)
 
-- 👨‍💻 All of my projects are available at [https://tamim1992.github.io/](https://tamim1992.github.io/)
+- 👨‍💻 All of my projects are available at **[website](https://tamim1992.github.io/) **
 
 - 📫 How to reach me **ahzkc@umsystem.edu | atamim.hamad@gmail.com**
 
