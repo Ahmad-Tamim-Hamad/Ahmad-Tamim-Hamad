@@ -3,8 +3,6 @@
 
 <img align="center" width="1000" alt="background" src="https://github.com/user-attachments/assets/d0872056-38d2-416f-aab5-86d54319acc6">
 
-<br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamim1992&label=Profile%20views&color=0e75b6&style=flat" alt="tamim1992" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamim1992" alt="tamim1992" /></a> </p>
