@@ -1,5 +1,5 @@
 <h1 align="center">Welcome, I'm Ahmad Tamim</h1>
-<h3 align="center">Software Engineer | AI/ML Specialist</h3>
+<h3 align="center">Software | AI/ML Enginner </h3>
 
 <p align="center">
   <img width="1000" alt="background" src="https://github.com/user-attachments/assets/d0872056-38d2-416f-aab5-86d54319acc6">
