@@ -13,19 +13,19 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://tamim1992.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0E76A8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://x.com/AhmadTamimHamad" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-0A66C2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://leetcode.com/u/user2974g/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
   <a href="https://github.com/tamim1992" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://stackoverflow.com/users/18402146/ahmad-tamim-hamad" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-0A66C2?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
   </a>
 </p>
 
