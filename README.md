@@ -6,30 +6,30 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmad-tamim-hamad-21659b207/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://tamim1992.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://x.com/AhmadTamimHamad" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-0A66C2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-0A66C2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://leetcode.com/u/user2974g/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-0A66C2?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
   <a href="https://github.com/tamim1992" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-0A66C2?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://stackoverflow.com/users/18402146/ahmad-tamim-hamad" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-0A66C2?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-0A66C2?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
   </a>
   <a href="https://scholar.google.com/citations?user=H5ByOiIAAAAJ&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-0A66C2?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
+    <img src="https://img.shields.io/badge/Google%20Scholar-0A66C2?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tamim1992&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=tamim1992&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/tamim1992?label=Followers&style=social" alt="GitHub Followers">
 </p>
 
