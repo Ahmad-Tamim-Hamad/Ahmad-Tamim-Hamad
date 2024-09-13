@@ -31,15 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamim1992&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamim1992&layout=compact&hide_border=true&theme=default" alt="Top Languages">
-</p>
-
----
-
 ### 👀 Profile Insights:
 
 <p align="center">
