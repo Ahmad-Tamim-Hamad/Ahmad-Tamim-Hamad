@@ -32,5 +32,3 @@
   <img src="https://komarev.com/ghpvc/?username=tamim1992&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/tamim1992?label=Followers&style=social" alt="GitHub Followers">
 </p>
-
-<p align="center">Thank you for visiting my GitHub profile! Feel free to reach out or check out my work.</p>
