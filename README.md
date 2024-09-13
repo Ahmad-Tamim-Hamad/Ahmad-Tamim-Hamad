@@ -23,6 +23,9 @@
   <a href="https://stackoverflow.com/users/18402146/ahmad-tamim-hamad" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-0A66C2?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
   </a>
+  <a href="https://scholar.google.com/citations?user=H5ByOiIAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-0A66C2?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
+  </a>
 </p>
 
 <p align="center">
