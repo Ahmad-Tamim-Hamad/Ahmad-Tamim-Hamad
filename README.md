@@ -4,10 +4,6 @@
   <img width="800" alt="background" src="https://github.com/user-attachments/assets/d0872056-38d2-416f-aab5-86d54319acc6">
 </p>
 
----
-
-### 🌐 Connect with Me:
-
 <p align="center">
   <a href="https://linkedin.com/in/ahmad-tamim-hamad-21659b207/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -29,15 +25,9 @@
   </a>
 </p>
 
----
-
-### 👀 Profile Insights:
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tamim1992&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/tamim1992?label=Followers&style=social" alt="GitHub Followers">
 </p>
-
----
 
 <p align="center">Thank you for visiting my GitHub profile! Feel free to reach out or check out my work.</p>
