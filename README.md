@@ -1,5 +1,4 @@
-<h1 align="center">Welcome, I'm Ahmad Tamim</h1>
-<h3 align="center">Software | AI/ML Engineer</h3>
+<h1 align="center">Ahmad Tamim Hamad </h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmad-tamim-hamad-21659b207/" target="_blank">
