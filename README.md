@@ -17,7 +17,7 @@
   <a href="https://leetcode.com/u/user2974g/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-0A66C2?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
-  <a href="https://github.com/Ahmad-Tamim-Hamad" target="_blank">
+  <a href="https://github.com/tamim1992" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0A66C2?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://stackoverflow.com/users/18402146/ahmad-tamim-hamad" target="_blank">
@@ -29,6 +29,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmad-Tamim-Hamad&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/Ahmad-Tamim-Hamad?label=Followers&style=social" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=tamim1992&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/tamim1992?label=Followers&style=social" alt="GitHub Followers">
 </p>
