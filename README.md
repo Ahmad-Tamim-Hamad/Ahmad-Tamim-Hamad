@@ -1,4 +1,4 @@
-<h1 align="center">Ahmad Tamim Hamad</h1>
+<h1 align="center">Ahmad-Tamim-Hamad </h1>
 
 <p align="center">
   <img width="800" alt="background" src="https://github.com/user-attachments/assets/d0872056-38d2-416f-aab5-86d54319acc6">
