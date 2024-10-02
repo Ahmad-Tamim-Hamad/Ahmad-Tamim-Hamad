@@ -17,9 +17,6 @@
   <a href="https://leetcode.com/u/user2974g/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-0A66C2?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
-  <a href="https://github.com/tamim1992" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0A66C2?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
   <a href="https://stackoverflow.com/users/18402146/ahmad-tamim-hamad" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-0A66C2?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
   </a>
