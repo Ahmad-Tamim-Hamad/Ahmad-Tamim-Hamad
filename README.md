@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahmad-tamim-hamad-21659b207/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmad-tamim-h-21659b207/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://sites.google.com/view/ahmad-tamim-hamad/home" target="_blank">
